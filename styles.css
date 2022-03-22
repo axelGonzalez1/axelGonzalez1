@@ -1997,6 +1997,9 @@
             width: 9vw;
         }
 
+        .document1-Section1 div:nth-of-type(1) table tr:first-child td:nth-of-type(2) p:nth-of-type(2) span:nth-of-type(2) {
+            width: 3vw !important
+        }
 
         .document1-Section1 div:nth-of-type(1) table tr:first-child td:nth-of-type(2) p:nth-of-type(3) span:first-child,
         .document1-Section1 div:nth-of-type(1) table tr:first-child td:nth-of-type(2) p:nth-of-type(3) span:nth-of-type(2),
